@@ -5,13 +5,13 @@
 
 ## 📖 Visão Geral
 
-Este projeto é um chatbot com  IA para WhatsApp desenvolvido para a **Ativa Futevôlei**, uma escola de futevôlei no Rio de Janeiro. O bot, chamado **Jú**, funciona como uma assistente virtual inteligente, utilizando o poder do **Google Gemini** para interagir com os usuários.
+Este projeto é um Agente de IA para WhatsApp desenvolvido para a **Ativa Futevôlei**, uma escola de futevôlei no Rio de Janeiro. O agente é, chamado **Jú**, funciona como uma assistente virtual inteligente, utilizando o poder do **Google Gemini** para interagir com os usuários.
 
 O principal objetivo é automatizar o atendimento inicial, fornecendo informações, respondendo a perguntas frequentes e realizando o agendamento de aulas experimentais de forma fluida e humanizada.
 
 ## ✨ Principais Funcionalidades
 
-O chatbot com IA foi projetado com uma série de funcionalidades para oferecer uma experiência completa e eficiente ao usuário:
+O Agente de IA foi projetado com uma série de funcionalidades para oferecer uma experiência completa e eficiente ao usuário:
 
 * **Assistente Virtual com IA (Jú):** Utiliza o modelo `gemini-1.5-flash` do Google para entender as intenções do usuário, manter o contexto da conversa e fornecer respostas precisas com base em uma base de conhecimento pré-definida.
 

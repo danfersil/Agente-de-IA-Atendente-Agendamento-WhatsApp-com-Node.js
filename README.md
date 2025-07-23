@@ -1,4 +1,4 @@
-# Chatbot Ativa Futevôlei para WhatsApp
+# Agente de IA Atentendente Agendamento WhatApp - Atendimento Automatizado p/ Ativa Futevôlei no WhatsApp
 
 ![Versão do Node.js](https://img.shields.io/badge/node-v18.0.0%2B-brightgreen)
 ![Licença](https://img.shields.io/badge/license-MIT-blue)

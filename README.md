@@ -57,6 +57,7 @@ Siga os passos abaixo para configurar e executar o projeto em seu ambiente local
 * [Node.js](https://nodejs.org/) (versão 18.0.0 ou superior)
 * NPM (geralmente instalado com o Node.js)
 * Uma conta do WhatsApp ativa
+* Uma API_KEY do Gemini pode se conseguir uma sem custo no URL: (https://aistudio.google.com)
 
 ### 1. Clonar o Repositório
 

@@ -1,0 +1,18 @@
+{
+  "name": "ativa-futevolei-chatbot",
+  "version": "2.0.0",
+  "description": "Chatbot para Ativa Futevôlei com integração Gemini.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "@google/genai": "^1.4.0",
+    "@google/generative-ai": "^0.11.3",
+    "dotenv": "^16.5.0",
+    "lowdb": "^7.0.1",
+    "moment-timezone": "^0.5.45",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.23.0"
+  }
+}
